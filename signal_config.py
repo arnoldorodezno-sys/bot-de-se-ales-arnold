@@ -80,7 +80,7 @@ FVG_MIN_SIZE_PCT = 0.001
 # ==========================================================================
 # CALIDAD DE SEÑALES
 # ==========================================================================
-SCORE_MIN_SIGNAL = 7.0      # Solo señales con score >= 7.0
+SCORE_MIN_SIGNAL = 6.0      # Solo señales con score >= 6.0
 SCORE_PERFECT = 9.0         # Señal perfecta
 SCORE_GOOD = 7.0            # Señal buena
 MIN_RR = 2.0                # R:R mínimo 1:2
